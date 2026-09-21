@@ -1,0 +1,567 @@
+ServiceIdentifier,TravelsName,BusType,BoardingTime@Shamshabad,BoardingPointName@Shamshabad, BoardingTime@Jadcherla,BoardingPointName@Jadcherla,Route
+8336_237,"Jabbar  Travels","Scania Multi-Axle AC Semi Sleeper (2+2)",20:30,Shamshabad,22:00,Jadcherla,Hyderabad-Bengaluru
+8336_236,"Jabbar  Travels","Scania AC Multi Axle Sleeper (2+1)",21:30,Shamshabad,22:45,Jadcherla,Hyderabad-Bengaluru
+16583_46,"Swamy Ayyappa Travels","A/C Sleeper (2+1)",17:45,Shamshabad,19:25,Jadcherla,Hyderabad-Bengaluru
+16937_280,"Kallada Travels (Suresh Kallada)","Volvo Multi-Axle I-Shift A/C Semi Sleeper (2+2)",15:15,Shamshabad,16:15,Jadcherla,Hyderabad-Bengaluru
+8336_282,"Jabbar  Travels","VE Non A/C Sleeper (2+1)",22:45,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+16797_163,"V Kaveri Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",20:45,Shamshabad,22:00,Jadcherla,Hyderabad-Bengaluru
+19085_SCH3988978D,"Vikram Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",22:45,Shamshabad,23:15,Jadcherla,Hyderabad-Bengaluru
+16583_108,"Swamy Ayyappa Travels","A/C Sleeper (2+1)",19:55,Shamshabad,21:00,Jadcherla,Hyderabad-Bengaluru
+21123_29,"Dream Line Travels Pvt Ltd","Volvo B11R Multi-Axle A/C Sleeper (2+1)",00:15 (23-Jul),Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+20437_226,"IntrCity SmartBus","AC Sleeper (2+1)",22:10,Shamshabad,00:00 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+20437_231,"IntrCity SmartBus","A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+16583_134,"Swamy Ayyappa Travels","A/C Sleeper (2+1)",17:00,Shamshabad,18:10,Jadcherla,Hyderabad-Bengaluru
+19759_295,"Sri Krishna Travels","A/C Sleeper (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+8336_396,"Jabbar  Travels","Scania AC Multi Axle Sleeper (2+1)",23:20,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+2323_2182,"National  travels","Bharat Benz A/C Sleeper (2+1)",20:50,Shamshabad,22:35,Jadcherla,Hyderabad-Bengaluru
+20437_426,"IntrCity SmartBus","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",23:55,Shamshabad,01:25 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+20437_485,"IntrCity SmartBus","Bharat Benz A/C Seater /Sleeper (2+1)",19:55,Shamshabad,21:35,Jadcherla,Hyderabad-Bengaluru
+2323_2320,"National  travels","Mercedes Benz A/C Sleeper (2+1)",00:35 (23-Jul),Shamshabad,01:40 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+24389_9,"GEE PEE TRAVELS","NON A/C Sleeper (2+1)",23:25,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+21734_27,"Streamline tours and travels","Bharat Benz A/C Sleeper (2+1)",23:35,Shamshabad,23:59,Jadcherla,Hyderabad-Bengaluru
+25286_SCH4B8A16H,"Go Tour Travels and Holidays","Bharat Benz A/C Sleeper (2+1)",23:15,Shamshabad,00:45 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+25286_SCH1A853026H,"Go Tour Travels and Holidays","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",22:30,Shamshabad,23:45,Jadcherla,Hyderabad-Bengaluru
+25286_SCH3B8E3599K,"Go Tour Travels and Holidays","Bharat Benz A/C Sleeper (2+1)",21:45,Shamshabad,23:15,Jadcherla,Hyderabad-Bengaluru
+25286_SCH4986211I,"Go Tour Travels and Holidays","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",20:55,Shamshabad,22:45,Jadcherla,Hyderabad-Bengaluru
+20437_637,"IntrCity SmartBus","AC Sleeper (2+1)",21:10,Shamshabad,22:55,Jadcherla,Hyderabad-Bengaluru
+16937_627,"Kallada Travels (Suresh Kallada)","A/C Sleeper (2+1)",14:20,Shamshabad,15:20,Jadcherla,Hyderabad-Bengaluru
+19571_95187,"Intercity travels","Bharat Benz A/C Sleeper (2+1)",21:25,Shamshabad,23:00,Jadcherla,Hyderabad-Bengaluru
+20437_660,"IntrCity SmartBus.AQI","A/C Seater / Sleeper (2+1)",20:10,Shamshabad,21:50,Jadcherla,Hyderabad-Bengaluru
+20437_686,"IntrCity SmartBus","A/C Seater / Sleeper (2+1)",21:25,Shamshabad,23:15,Jadcherla,Hyderabad-Bengaluru
+20437_697,"IntrCity SmartBus","A/C Sleeper (2+1)",23:30,Shamshabad,00:50 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+25877_39,"Bmcc Travels","NON AC Seater / Sleeper 2+1",21:59,Shamshabad,00:05 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+23873_SCH568D105C,"CMR Express","A/C Sleeper (2+1)",23:30,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+19085_SCH588D1274I,"Vikram Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:30,Shamshabad,22:45,Jadcherla,Hyderabad-Bengaluru
+20397_777,"Morning Star Travels","A/C Sleeper (2+1)",00:51 (23-Jul),Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+26870_24,"Highline Transports","VE A/C Sleeper (2+1)",23:25,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+23154_50,"RR Tours and Travels","VE A/C Sleeper (2+1)",23:25,Shamshabad,23:59,Jadcherla,Hyderabad-Bengaluru
+26458_5,"Saleem Travels","NON A/C Sleeper (2+1)",23:10,Shamshabad,00:35 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+25338_100998,"VRL Travels","NON A/C Sleeper (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+4861_212,"S.L  Travels","NON A/C Sleeper (2+1)",22:55,Shamshabad,23:45,Jadcherla,Hyderabad-Bengaluru
+16937_718,"Kallada Travels (Suresh Kallada)","A/C Sleeper (2+1)",17:25,Shamshabad,18:30,Jadcherla,Hyderabad-Bengaluru
+20310_309,"Shyamoli Paribahan Pvt Ltd","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:59,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+25245_238,"Tranzindia Travels","VE A/C Sleeper (2+1)",23:00,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+25338_104177,"VRL Travels","NON A/C Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+20437_796,"IntrCity SmartBus","AC Sleeper (2+1)",21:25,Shamshabad,22:50,Jadcherla,Hyderabad-Bengaluru
+20437_810,"IntrCity SmartBus","A/C Seater / Sleeper (2+1)",20:35,Shamshabad,22:30,Jadcherla,Hyderabad-Bengaluru
+20437_817,"IntrCity SmartBus","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",19:25,Shamshabad,21:30,Jadcherla,Hyderabad-Bengaluru
+20437_832,"IntrCity SmartBus","A/C Seater / Sleeper (2+1)",00:15 (23-Jul),Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+20310_332,"Shyamoli Paribahan Pvt Ltd","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",18:10,Shamshabad,19:30,Jadcherla,Hyderabad-Bengaluru
+30054_SCH5B89922C,"TVK TRAVELS","Bharat Benz A/C Sleeper (2+1)",23:35,Shamshabad,00:15 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+20218_660aed31661d6b92ab9899df,"zingbus plus","A/C Sleeper (2+1)",21:15,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+29023_SCH398A316L,"IRA TRANSPORTS","A/C Sleeper (2+1)",21:30,Shamshabad,22:15,Jadcherla,Hyderabad-Bengaluru
+30513_SCH2A8E139F,"Pramukh Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",19:45,Shamshabad,21:00,Jadcherla,Hyderabad-Bengaluru
+19571_108896,"Intercity travels","Bharat Benz A/C Sleeper (2+1)",20:20,Shamshabad,21:55,Jadcherla,Hyderabad-Bengaluru
+16937_781,"Kallada Travels (Suresh Kallada)","A/C Sleeper (2+1)",18:25,Shamshabad,19:20,Jadcherla,Hyderabad-Bengaluru
+30745_SCH4986502N,"Delta Transports Pvt Ltd","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",19:35,Shamshabad,21:05,Jadcherla,Hyderabad-Bengaluru
+19695_36,"Mythri Tours And Travels","A/C Sleeper (2+1)",21:10,Shamshabad,22:10,Jadcherla,Hyderabad-Bengaluru
+19571_109994,"Intercity travels","Bharat Benz A/C Sleeper (2+1)",23:50,Shamshabad,00:55 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+30513_SCH2988686L,"Pramukh Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",22:45,Shamshabad,23:59,Jadcherla,Hyderabad-Bengaluru
+25286_SCH3B89116H,"Go Tour Travels and Holidays","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",18:55,Shamshabad,21:00,Jadcherla,Hyderabad-Bengaluru
+20437_1047,"IntrCity SmartBus","Bharat Benz A/C Sleeper (2+1)",21:40,Shamshabad,23:30,Jadcherla,Hyderabad-Bengaluru
+19571_111580,"Intercity travels","Bharat Benz A/C Sleeper (2+1)",23:35,Shamshabad,00:45 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+17291_638,"BigBus","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",15:20,Shamshabad,16:15,Jadcherla,Hyderabad-Bengaluru
+29666_SCH4789249M,"Balaji Cabs","Bharat Benz A/C Sleeper (2+1)",19:00,Shamshabad,20:10,Jadcherla,Hyderabad-Bengaluru
+20310_366,"Shyamoli Paribahan Pvt Ltd","Volvo Multi-Axle I-Shift A/C Sleeper (2+1)",21:10,Shamshabad,21:59,Jadcherla,Hyderabad-Bengaluru
+21456_58,"Pooja Travels (Nagpur)","Bharat Benz A/C Sleeper (2+1)",00:15 (23-Jul),Shamshabad,00:35 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+22698_124,"Shree Savariya Travels & Transport","A/C Seater / Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+26626_22,"VSR Tours and Travels","A/C Sleeper (2+1)",21:15,Shamshabad,22:50,Jadcherla,Hyderabad-Bengaluru
+26785_99,"Express Line","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:49,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+16937_821,"Kallada Travels (Suresh Kallada)","Scania AC Multi Axle Sleeper (2+1)",16:15,Shamshabad,17:15,Jadcherla,Hyderabad-Bengaluru
+17291_653,"BigBus","A/C Sleeper (2+1)",17:15,Shamshabad,18:15,Jadcherla,Hyderabad-Bengaluru
+20065_14,"Raj’s Travels and Transports","Benz A/C Sleeper (2+1)",22:05,Shamshabad,23:20,Jadcherla,Hyderabad-Bengaluru
+29568_114544,"Naveen Travels (Durg)","A/C Sleeper (2+1)",00:25 (23-Jul),Shamshabad,00:50 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+30054_SCH4789176I,"TVK TRAVELS","Bharat Benz A/C Sleeper (2+1)",21:45,Shamshabad,22:40,Jadcherla,Hyderabad-Bengaluru
+32017_4,"7Hills roadways","Scania AC Multi Axle Sleeper (2+1)",21:40,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+16937_840,"Kallada Travels (Suresh Kallada)","A/C Sleeper (2+1)",15:45,Shamshabad,16:45,Jadcherla,Hyderabad-Bengaluru
+32059_SCH188C1837J,"Royal Rich India R No. 207","Bharat Benz A/C Sleeper (2+1)",13:25,Shamshabad,14:30,Jadcherla,Hyderabad-Bengaluru
+30426_f13bbb5e-185e-4ca0-96ce-7c74f09854d9_04,"FlixBus","A/C Sleeper (2+1)",19:40,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_9cc512a7-3ecb-11ea-8017-02437075395e_04,"FlixBus","VE A/C Sleeper (2+1)",19:20,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_9cc512a7-3ecb-11ea-8017-02437075395e_02,"FlixBus","VE A/C Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+25286_SCH278A1824K,"Go Tour Travels and Holidays","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",23:45,Shamshabad,01:15 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+29023_SCH3784435I,"IRA TRANSPORTS","VE A/C Sleeper (2+1)",23:00,Shamshabad,00:00 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+19695_55,"Mythri Tours And Travels","A/C Sleeper (2+1)",22:45,Shamshabad,23:55,Jadcherla,Hyderabad-Bengaluru
+20310_519,"Shyamoli Paribahan Pvt Ltd","A/C Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+33145_17,"SVR Tours and Travels","A/C Sleeper (2+1)",21:30,Shamshabad,22:00,Jadcherla,Hyderabad-Bengaluru
+16937_861,"Kallada Travels (Suresh Kallada)","A/C Sleeper (2+1)",19:25,Shamshabad,21:00,Jadcherla,Hyderabad-Bengaluru
+16797_925,"V Kaveri Travels","VE A/C Sleeper (2+1)",23:35,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+25245_396,"Tranzindia Travels","VE A/C Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+20218_681ddab2a8ac5da60e6846c3,"zingbus plus","VE A/C Sleeper (2+1)",18:35,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+33145_62,"SVR Tours and Travels","A/C Sleeper (2+1)",19:00,Shamshabad,20:30,Jadcherla,Hyderabad-Bengaluru
+26458_10,"Saleem Travels","Non A/C Seater / Sleeper (2+1)",20:50,Shamshabad,22:00,Jadcherla,Hyderabad-Bengaluru
+20218_682c869c010098f38bf71bb3,"zingbus plus","A/C Seater/Sleeper (2+1)",20:00,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+25338_119218,"VRL Travels","NON A/C Sleeper (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+17633_171250,"B R Travels","A/C Sleeper (2+1)",02:25,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+15863_171984,"DNR Express","Bharat Benz A/C Sleeper (2+1)",00:45 (23-Jul),Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+22954_259,"SL Travels","NON A/C Sleeper (2+1)",20:25,Shamshabad,21:50,Jadcherla,Hyderabad-Bengaluru
+22954_260,"SL Travels","A/C Sleeper (2+1)",20:25,Shamshabad,21:50,Jadcherla,Hyderabad-Bengaluru
+34504_70,"Mythri Tours And Travels","Bharat Benz A/C Sleeper (2+1)",22:40,Shamshabad,23:55,Jadcherla,Hyderabad-Bengaluru
+34569_SCH3B84862J,"Royal Rich India R No. 208","Bharat Benz A/C Sleeper (2+1)",14:45,Shamshabad,15:45,Jadcherla,Hyderabad-Bengaluru
+28040_83,"Rajdhani Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",23:58,Shamshabad,00:55 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+34572_867,"Kallada Travels (Suresh Kallada)","Bharat Benz A/C Sleeper (2+1)",13:05,Shamshabad,14:10,Jadcherla,Hyderabad-Bengaluru
+34504_25,"Mythri Tours And Travels","A/C Sleeper (2+1)",21:45,Shamshabad,23:00,Jadcherla,Hyderabad-Bengaluru
+20310_592,"Shyamoli Paribahan Pvt Ltd","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",16:55,Shamshabad,18:00,Jadcherla,Hyderabad-Bengaluru
+34680_11,"HASH BUS","Bharat Benz A/C Sleeper (2+1)",21:20,Shamshabad,22:50,Jadcherla,Hyderabad-Bengaluru
+34680_14,"HASH BUS","Bharat Benz A/C Sleeper (2+1)",22:40,Shamshabad,23:55,Jadcherla,Hyderabad-Bengaluru
+17291_677,"BigBus","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",15:15,Shamshabad,16:15,Jadcherla,Hyderabad-Bengaluru
+30092_SCH4A8C83K,"A1 Travels","Bharat Benz A/C Sleeper (2+1)",18:00,Shamshabad,19:00,Jadcherla,Hyderabad-Bengaluru
+20310_619,"Shyamoli Paribahan Pvt Ltd","Bharat Benz A/C Sleeper (2+1)",22:30,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+34793_SCH168D83L,"GR TRANS (GRT)","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",18:35,Shamshabad,19:55,Jadcherla,Hyderabad-Bengaluru
+30745_SCH5A8910I,"Delta Transports Pvt Ltd","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",15:10,Shamshabad,16:25,Jadcherla,Hyderabad-Bengaluru
+17291_714,"BigBus","A/C Sleeper (2+1)",17:15,Shamshabad,18:15,Jadcherla,Hyderabad-Bengaluru
+35621_10,"RAJESH TRANSPORTS","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:20,Shamshabad,22:30,Jadcherla,Hyderabad-Bengaluru
+35621_9,"RAJESH TRANSPORTS","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",23:25,Shamshabad,00:45 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+35621_12,"RAJESH TRANSPORTS","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",22:20,Shamshabad,23:30,Jadcherla,Hyderabad-Bengaluru
+17291_740,"BigBus","A/C Sleeper (2+1)",17:15,Shamshabad,18:15,Jadcherla,Hyderabad-Bengaluru
+23213_449,"BSR Tours And Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:20,Shamshabad,22:40,Jadcherla,Hyderabad-Bengaluru
+20393_450,"BSR Tours And Travels","Scania AC Multi Axle Sleeper (2+1)",23:00,Shamshabad,23:59,Jadcherla,Hyderabad-Bengaluru
+20393_453,"BSR Tours And Travels","A/C Sleeper (2+1)",21:20,Shamshabad,22:40,Jadcherla,Hyderabad-Bengaluru
+20393_454,"BSR Tours And Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",19:10,Shamshabad,20:45,Jadcherla,Hyderabad-Bengaluru
+30513_SCH2B89404F,"Pramukh Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:45,Shamshabad,22:45,Jadcherla,Hyderabad-Bengaluru
+25245_460,"Tranzindia Travels","VE A/C Seater / Sleeper (2+1)",23:25,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+19085_SCH588B1484K,"Vikram Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",22:30,Shamshabad,23:20,Jadcherla,Hyderabad-Bengaluru
+32021_126141,"Orange Tours and Travels","Scania AC Multi Axle Sleeper (2+1)",21:50,Shamshabad,22:40,Jadcherla,Hyderabad-Bengaluru
+17291_770,"BigBus","Bharat Benz A/C Sleeper (2+1)",17:15,Shamshabad,18:15,Jadcherla,Hyderabad-Bengaluru
+23873_SCH1B8C3L,"CMR Express","A/C Seater / Sleeper (2+1)",23:30,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_2eb1b3c6-3601-44c9-aad0-40c59f5a1747_52,"FlixBus","A/C Seater / Sleeper (2+1)",20:25,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_2eb1b3c6-3601-44c9-aad0-40c59f5a1747_54,"FlixBus","A/C Seater / Sleeper (2+1)",22:40,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+2323_3326,"National  travels","Bharat Benz NON A/C Seater / Sleeper (2+1)",23:50,Shamshabad,23:45,Jadcherla,Hyderabad-Bengaluru
+2323_3325,"National  travels","Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1)",22:19,Shamshabad,23:45,Jadcherla,Hyderabad-Bengaluru
+34793_SCH198D168E,"GR TRANS (GRT)","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",20:00,Shamshabad,21:35,Jadcherla,Hyderabad-Bengaluru
+9748_126564,"Prasanna - Purple Bus","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",20:40,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+35980_4,"Madesh Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",21:15,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+25338_126773,"VRL Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",20:00,Shamshabad,20:45,Jadcherla,Hyderabad-Bengaluru
+17291_776,"BigBus","A/C Sleeper (2+1)",19:20,Shamshabad,20:30,Jadcherla,Hyderabad-Bengaluru
+25338_126940,"VRL Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+29288_SCH188B197G,"SBM TRAANSPORT","Bharat Benz A/C Sleeper (2+1)",15:15,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+23213_479,"BSR Tours And Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",16:55,Shamshabad,18:15,Jadcherla,Hyderabad-Bengaluru
+19759_1038,"Sri Krishna Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:15,Shamshabad,22:40,Jadcherla,Hyderabad-Bengaluru
+35980_14,"Madesh Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",20:00,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+32017_12,"7Hills roadways","Bharat Benz A/C Sleeper (2+1)",17:40,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+23264_154,"LVP Travels","A/C Sleeper (2+1)",21:50,Shamshabad,22:40,Jadcherla,Hyderabad-Bengaluru
+23264_155,"LVP Travels","A/C Sleeper (2+1)",22:50,Shamshabad,23:40,Jadcherla,Hyderabad-Bengaluru
+9138_626,"Ramana Tours And Travels","A/C Sleeper (2+1)",21:00,Shamshabad,22:50,Jadcherla,Hyderabad-Bengaluru
+36337_1000957813979500,"November Travels","A/C Seater / Sleeper (2+1)",20:35,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+36337_1000653713979500,"November Travels","Bharat Benz A/C Sleeper (2+1)",21:35,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+36337_1000623213979500,"November Travels","Bharat Benz A/C Sleeper (2+1)",21:35,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+35980_15,"Madesh Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+29288_SCH598A8E,"SBM TRAANSPORT","Bharat Benz A/C Sleeper (2+1)",14:45,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+29288_SCH2B8F87E,"SBM TRAANSPORT","Bharat Benz A/C Sleeper (2+1)",15:10,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+19695_107,"Mythri Tours And Travels","NON A/C Sleeper (2+1)",21:15,Shamshabad,22:30,Jadcherla,Hyderabad-Bengaluru
+30054_SCH2B8C661F,"TVK TRAVELS","Bharat Benz A/C Sleeper (2+1)",23:46,Shamshabad,23:59,Jadcherla,Hyderabad-Bengaluru
+36474_35,"HASH BUS","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",19:35,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+25286_SCH4B89474H,"Go Tour Travels and Holidays","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",14:00,Shamshabad,15:15,Jadcherla,Hyderabad-Bengaluru
+19085_SCH5988448D,"Vikram Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",23:15,Shamshabad,00:05 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+36486_9,"Kanuri Travels","A/C Sleeper (2+1)",21:50,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+28040_99,"Rajdhani Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",00:30 (23-Jul),Shamshabad,01:30 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+30426_577ca07c-193f-40b6-9215-ea7a782e9212_52,"FlixBus","VE A/C Sleeper (2+1)",21:00,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+19695_119,"Mythri Tours And Travels","Bharat Benz A/C Sleeper (2+1)",17:00,Shamshabad,18:10,Jadcherla,Hyderabad-Bengaluru
+33561_2550,"SRS TRAVELS","VE A/C Seater / Sleeper (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+32017_87,"7Hills roadways","Scania AC Multi Axle Sleeper (2+1)",20:05,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_cc4a2370-69b9-4037-836b-170c3150fbf7_52,"FlixBus","A/C Sleeper (2+1)",21:45,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+34793_SCH2B89921C,"GR TRANS (GRT)","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",15:10,Shamshabad,15:55,Jadcherla,Hyderabad-Bengaluru
+17291_831,"BigBus","A/C Sleeper (2+1)",15:15,Shamshabad,16:15,Jadcherla,Hyderabad-Bengaluru
+31504_45,"LG BUS","Bharat Benz A/C Sleeper (2+1)",22:10,Shamshabad,00:00 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+32145_SCH1B891541D,"Sohan Tours & Travels","Bharat Benz A/C Sleeper (2+1)",22:35,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+18936_SCH5686746E,"PSS Transport","A/C Sleeper (2+1)",14:55,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_dc44da0f-097a-4ab6-9d1f-2c14efb410b3_52,"FlixBus","A/C Seater / Sleeper (2+1)",20:50,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_0b440cee-c22f-43a8-be27-8cda7b05a990_54,"FlixBus","A/C Seater / Sleeper (2+1)",22:20,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+36921_SCH278921E,"KSM ROADWAYS","Volvo B11R Multi-Axle A/C Sleeper (2+1)",23:44,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+36921_SCH468599K,"KSM ROADWAYS","Bharat Benz A/C Sleeper (2+1)",23:00,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+36921_SCH268D758I,"KSM ROADWAYS","Bharat Benz A/C Sleeper (2+1)",21:15,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+36921_SCH59841344M,"KSM ROADWAYS","Bharat Benz A/C Sleeper (2+1)",21:35,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+37069_1001957813979500,"RMS Transports","A/C Sleeper (2+1)",21:55,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+20751_SCH468C246I,"Sri Balaji Transports","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",22:20,Shamshabad,23:50,Jadcherla,Hyderabad-Bengaluru
+26914_103,"YAS Tours and Travels","Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1)",14:00,Shamshabad,14:50,Jadcherla,Hyderabad-Bengaluru
+17291_864,"BigBus","A/C Seater / Sleeper (2+1)",19:20,Shamshabad,20:30,Jadcherla,Hyderabad-Bengaluru
+29331_585,"Dhanunjaya Travels","A/C Seater / Sleeper (2+1)",22:15,Shamshabad,23:25,Jadcherla,Hyderabad-Bengaluru
+36921_SCH1B8D859H,"KSM ROADWAYS","Bharat Benz A/C Sleeper (1+1)",21:20,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_96281b3b-4824-4c09-9e8a-13ec5d920707_52,"FlixBus","A/C Sleeper (2+1)",20:00,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+32021_132049,"Orange Tours and Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",23:55,Shamshabad,00:59 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+37539_86,"YOLOBUS PRIVATE LIMITED","Bharat Benz A/C Sleeper (2+1)",23:50,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_ecfa28f3-e8cb-48e4-b88f-782627762d31_52,"FlixBus","VE A/C Sleeper (2+1)",20:10,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_ecfa28f3-e8cb-48e4-b88f-782627762d31_54,"FlixBus","VE A/C Sleeper (2+1)",21:10,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+23971_1961,"TruGo","A/C Sleeper (2+1)",20:20,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+20218_6a508bffde871724fa79d25d,"zingbus plus","VE A/C Sleeper (2+1)",19:10,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_ddb2a4c0-4625-402f-8918-98ebc19e3ef9_52,"FlixBus","A/C Sleeper (2+1)",21:25,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_ddb2a4c0-4625-402f-8918-98ebc19e3ef9_54,"FlixBus","A/C Sleeper (2+1)",21:50,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+20437_2115,"IntrCity SmartBus","AC Sleeper (2+1)",22:35,Shamshabad,00:00 (23-Jul),Jadcherla,Hyderabad-Bengaluru
+30426_ac62923d-7d74-40c2-9d8d-ac23e67b82b3_52,"FlixBus","A/C Sleeper (2+1)",23:35,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_ac62923d-7d74-40c2-9d8d-ac23e67b82b3_54,"FlixBus","A/C Sleeper (2+1)",00:05 (23-Jul),Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+37550_652,"Ramana Tours And Travels","A/C Sleeper (2+1)",21:00,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+30426_1ca668d5-5b28-4586-a379-4b9f6ead429a_52,"FlixBus","A/C Sleeper (2+1)",22:00,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+37485_SCH3A8D803L,"Aradhana Paribahan","Bharat Benz A/C Sleeper (2+1)",23:40,Shamshabad,N/A,N/A,Hyderabad-Bengaluru
+8336_76,"Jabbar  Travels","Bharat Benz A/C Sleeper (2+1)",22:45,Shamshabad,23:45,Jadcherla,Hyderabad-Bengaluru
+8336_121,"Jabbar  Travels","NON AC Seater / Sleeper 2+1",20:30,Shamshabad,22:00,Jadcherla,Hyderabad-Bengaluru
+16410_216,"Jagan Travels","Non A/C Seater / Sleeper (2+1)",23:57,Shamshabad,01:15 (23-Jul),Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+16797_155,"V Kaveri Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",18:45,Shamshabad,19:15,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+4779_142,"CGR  Travels","Non A/C Seater / Sleeper (2+1)",23:54,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+23873_SCH4A8F186G,"CMR Express","Non A/C Seater / Sleeper (2+1)",23:35,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+20393_307,"BSR Tours And Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",18:45,Shamshabad,20:30,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+4779_199,"CGR  Travels","A/C Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+23873_SCH488B1387L,"CMR Express","A/C Sleeper (2+1)",23:35,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+29666_SCH3886234N,"Balaji Cabs","Bharat Benz A/C Sleeper (2+1)",19:00,Shamshabad,20:10,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+30127_SCH1B851734H,"JBT TRAVELS","NON A/C Sleeper (2+1)",22:15,Shamshabad,23:30,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+30127_SCH3987768J,"JBT TRAVELS","A/C Sleeper (2+1)",18:25,Shamshabad,19:40,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+18925_291,"VRCR Travels","VE A/C Sleeper (2+1)",23:40,Shamshabad,01:00 (23-Jul),Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+16410_1768,"Jagan Travels","A/C Seater / Sleeper (2+1)",17:40,Shamshabad,19:00,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+30513_SCH5A87385I,"Pramukh Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",19:45,Shamshabad,21:00,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+29288_SCH568A110N,"SBM TRAANSPORT","Bharat Benz A/C Sleeper (2+1)",17:10,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+24554_SCH498C1361I,"Sri Vaari Travels","Bharat Benz A/C Sleeper (2+1)",22:00,Shamshabad,23:00,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+33277_2,"SREE KVR TRAVELS","A/C Sleeper (2+1)",22:30,Shamshabad,23:55,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+19695_66,"Mythri Tours And Travels","A/C Sleeper (2+1)",19:00,Shamshabad,20:59,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+24554_SCH4A8740J,"Sri Vaari Travels","A/C Sleeper (2+1)",17:50,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+24554_SCH5B84101M,"Sri Vaari Travels","Bharat Benz A/C Sleeper (2+1)",16:20,Shamshabad,17:45,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+15840_1666,"Sri KVR Travels","A/C Sleeper (2+1)",22:40,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+19695_79,"Mythri Tours And Travels","A/C Sleeper (2+1)",18:00,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+35976_SCH3B8B357L,"Rainbow Ryders","Bharat Benz A/C Seater /Sleeper (2+1)",19:35,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+19759_1059,"Sri Krishna Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",17:15,Shamshabad,18:30,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+29666_SCH498C55C,"Balaji Cabs","Bharat Benz A/C Sleeper (2+1)",22:00,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+19759_553,"Sri Krishna Travels","A/C Sleeper (2+1)",21:00,Shamshabad,22:40,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+36649_1909,"Jagan Travels Elite","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",19:10,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+36649_1912,"Jagan Travels Elite","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",21:40,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+29666_SCH1B8A58E,"Balaji Cabs","Bharat Benz A/C Sleeper (2+1)",17:00,Shamshabad,18:05,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+35976_SCH278C1911L,"Rainbow Ryders","Bharat Benz A/C Sleeper (2+1)",18:50,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+35727_1928,"Mahesh Travels","A/C Sleeper (2+1)",23:57,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+16410_1928,"Jagan Travels","A/C Sleeper (2+1)",23:57,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+4861_89,"S.L  Travels","NON A/C Sleeper (2+1)",22:40,Shamshabad,23:40,Jadcherla,Hyderabad-Kadiri
+20504_1,"VRCR(AMKGN) Travels","NON A/C Sleeper (2+1)",22:40,Shamshabad,N/A,N/A,Hyderabad-Kadiri
+20751_SCH4A86811F,"Sri Balaji Transports","A/C Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Kadiri
+30076_SCH398B177G,"JBT TRAVELS","Non A/C Seater / Sleeper (2+1)",22:15,Shamshabad,23:30,Jadcherla,Hyderabad-Kadiri
+4861_231,"S.L  Travels","A/C Sleeper (2+1)",22:55,Shamshabad,23:55,Jadcherla,Hyderabad-Kadiri
+4861_273,"S.L  Travels","A/C Sleeper (2+1)",23:00,Shamshabad,23:50,Jadcherla,Hyderabad-Kadiri
+30127_SCH2789757J,"JBT TRAVELS","A/C Sleeper (2+1)",18:25,Shamshabad,19:40,Jadcherla,Hyderabad-Kadiri
+30570_SCH59861676K,"KK Travels","Non A/C Seater / Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Kadiri
+35211_SCH378516E,"Vihara Travels","A/C Seater / Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Kadiri
+36264_9,"DADA TRAVELS","A/C Sleeper (2+1)",22:30,Shamshabad,N/A,N/A,Hyderabad-Kadiri
+21443_11,"Murali Krishna Travels","Non A/C Seater / Sleeper (2+1)",21:45,Shamshabad,23:00,Jadcherla,Hyderabad-Madanapalli
+4779_162,"CGR  Travels","A/C Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Madanapalli
+23873_SCH298E11L,"CMR Express","NON A/C Sleeper (2+1)",23:35,Shamshabad,23:55,Jadcherla,Hyderabad-Madanapalli
+30992_3,"Sivaji Travells","Non A/C Seater / Sleeper (2+1)",23:30,Shamshabad,23:59,Jadcherla,Hyderabad-Madanapalli
+17564_95,"Jathin travels","A/C Seater / Sleeper (2+1)",23:10,Shamshabad,23:59,Jadcherla,Hyderabad-Madanapalli
+36373_3,"SRI MVT TRAVELS","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Madanapalli
+32021_126127,"Orange Tours and Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",20:40,Shamshabad,21:45,Jadcherla,Hyderabad-Mysore
+19504_1011,"KKaveri Travels","Volvo Multi-Axle A/C Sleeper (2+1) ",18:15,Shamshabad,19:30,Jadcherla,Hyderabad-Pondicherry
+29666_SCH398A702K,"Balaji Cabs","Bharat Benz A/C Sleeper (2+1)",19:15,Shamshabad,21:00,Jadcherla,Hyderabad-Pondicherry
+19759_688,"Sri Krishna Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",18:15,Shamshabad,19:45,Jadcherla,Hyderabad-Pondicherry
+30323_SCH268F21K,"Nanthi Travels","A/C Sleeper (2+1)",18:00,Shamshabad,N/A,N/A,Hyderabad-Pondicherry
+30323_SCH278D2223N,"Nanthi Travels","A/C Sleeper (2+1)",20:10,Shamshabad,N/A,N/A,Hyderabad-Pondicherry
+30323_SCH388B328H,"Nanthi Travels","A/C Sleeper (2+1)",16:20,Shamshabad,N/A,N/A,Hyderabad-Pondicherry
+29666_SCH288D110L,"Balaji Cabs","Bharat Benz A/C Sleeper (2+1)",15:15,Shamshabad,16:15,Jadcherla,Hyderabad-Pondicherry
+29666_SCH2A8E1411H,"Balaji Cabs","Bharat Benz A/C Sleeper (2+1)",22:10,Shamshabad,23:10,Jadcherla,Hyderabad-Pondicherry
+11038_5,"KMR  Travels","Non A/C Seater / Sleeper (2+1)",23:25,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+17957_140,"Vasavi travels","Non A/C Seater / Sleeper (2+1)",23:40,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+23392_18,"PRL BUS","A/C Sleeper (2+1)",23:59,Shamshabad,01:10 (01-Aug),Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+23392_20,"PRL BUS","NON A/C Sleeper (2+1)",23:40,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+17957_189,"Vasavi travels","Non A/C Seater / Sleeper (2+1)",23:50,Shamshabad,00:59 (23-Jul),Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+25933_15,"AR & BCVR Travels","NON A/C Sleeper (2+1)",23:59,Shamshabad,01:00 (23-Jul),Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+25933_34,"AR & BCVR Travels","A/C Sleeper (2+1)",N/A,N/A,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+25933_13,"AR & BCVR Travels","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+25933_10,"AR & BCVR Travels","A/C Sleeper (2+1)",23:58,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+25933_60,"AR & BCVR Travels","Non A/C Seater / Sleeper (2+1)",23:59,Shamshabad,01:00 (23-Jul),Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+26941_4,"SEVEN HILLS TRAVELS","Non A/C Seater / Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+26878_7,"VEERA BRAHMENDRA TRAVELS","Non A/C Seater / Sleeper (2+1)",23:50,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+26941_8,"SEVEN HILLS TRAVELS","A/C Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+29080_SCH4B84472F,"SREE RUDRA TRAVELS","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+29236_5,"HARITHA TRAVELS","Non A/C Seater / Sleeper (2+1)",23:55,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+29382_SCH3B8D14D,"Indu Travels","Non A/C Seater / Sleeper (2+1)",23:50,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+29382_SCH5B8A1173H,"Indu Travels","Non A/C Seater / Sleeper (2+1)",23:40,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+29382_SCH488874M,"Indu Travels","A/C Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+29382_SCH468B178G,"Indu Travels","Non A/C Seater / Sleeper (2+1)",23:50,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+29382_SCH29872458M,"Indu Travels","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+27682_SCH59851571L,"Maheswari Travels","A/C Sleeper (2+1)",23:56,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+30754_3,"Amala Travels","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+25933_133,"AR & BCVR Travels","A/C Sleeper (2+1)",N/A,N/A,01:00 (23-Jul),Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+27916_SCH48852145I,"VEERA & SRI KALESWARI TRAVELS","Non A/C Seater / Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+31251_3,"Siri Lakshmi Travels","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+31099_SCH1887857F,"Matangi Travels","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+31099_SCH168A664J,"Matangi Travels","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,23:58,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+27682_SCH56873378G,"Maheswari Travels","Non A/C Seater / Sleeper (2+1)",23:56,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+25933_259,"AR & BCVR Travels","Non A/C Seater / Sleeper (2+1)",N/A,N/A,23:45,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+33179_3,"Mohan Travels","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+17957_251,"Vasavi travels","A/C Sleeper (2+1)",23:45,Shamshabad,01:15 (23-Jul),Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+23392_303,"PRL BUS","Non A/C Seater / Sleeper (2+1)",22:50,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+23392_74,"PRL BUS","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+33724_SCH4B84472F,"Sree Rudra Travels","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+23392_364,"PRL BUS","A/C Seater / Sleeper (2+1)",23:50,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+27682_SCH498A16E,"Maheswari Travels","Non A/C Seater / Sleeper (2+1)",23:30,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+27682_SCH188B1024N,"Maheswari Travels","Non A/C Seater / Sleeper (2+1)",23:59,Shamshabad,00:09 (23-Jul),Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+29080_SCH3887178C,"SREE RUDRA TRAVELS","Non A/C Seater / Sleeper (2+1)",23:35,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+25933_328,"AR & BCVR Travels","NON AC Seater / Sleeper 2+1",N/A,N/A,23:45,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+26941_170,"SEVEN HILLS TRAVELS","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+36423_3,"Sami Travels","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+36374_4,"Vishnu Road Lines","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+36521_13,"PRASAD TRAVELS","Non A/C Seater / Sleeper (2+1)",23:50,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+36521_11,"PRASAD TRAVELS","A/C Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+36521_9,"PRASAD TRAVELS","Non A/C Seater / Sleeper (2+1)",23:30,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+37223_3,"Sri Avani Travels","Non A/C Seater / Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+36374_17,"Vishnu Road Lines","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+20607_3,"OVR Travels","Non A/C Seater / Sleeper (2+1)",23:20,Shamshabad,23:59,Jadcherla,Hyderabad-Pulivendula
+18925_175,"VRCR Travels","A/C Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Pulivendula
+23392_52,"PRL BUS","A/C Seater / Sleeper (2+1)",23:35,Shamshabad,N/A,N/A,Hyderabad-Pulivendula
+24135_5,"INDHU BUS","Non A/C Seater / Sleeper (2+1)",23:20,Shamshabad,N/A,N/A,Hyderabad-Pulivendula
+23392_88,"PRL BUS","Non A/C Seater / Sleeper (2+1)",23:20,Shamshabad,23:59,Jadcherla,Hyderabad-Pulivendula
+25933_21,"AR & BCVR Travels","Non A/C Seater / Sleeper (2+1)",23:40,Shamshabad,23:59,Jadcherla,Hyderabad-Pulivendula
+28091_2,"DK SAVARKAR TRAVELS","A/C Seater / Sleeper (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Pulivendula
+25594_7,"BHAIRAVA TOURS AND TRAVELS","Non A/C Seater / Sleeper (2+1)",23:00,Shamshabad,01:20 (01-Aug),Jadcherla,Hyderabad-Pulivendula
+29072_11,"KNR TRAVELS","Non A/C Seater / Sleeper (2+1)",23:15,Shamshabad,00:15 (01-Aug),Jadcherla,Hyderabad-Pulivendula
+20607_177,"OVR Travels","NON A/C Sleeper (2+1)",23:30,Shamshabad,23:59,Jadcherla,Hyderabad-Pulivendula
+20607_219,"OVR Travels","NON A/C Sleeper (2+1)",23:40,Shamshabad,23:59,Jadcherla,Hyderabad-Pulivendula
+30702_97,"KKaveri Travels","Non A/C Seater / Sleeper (2+1)",23:15,Shamshabad,23:59,Jadcherla,Hyderabad-Pulivendula
+28091_51,"DK SAVARKAR TRAVELS","Non A/C Seater / Sleeper (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Pulivendula
+33724_SCH3887178C,"Sree Rudra Travels","Non A/C Seater / Sleeper (2+1)",23:35,Shamshabad,N/A,N/A,Hyderabad-Pulivendula
+29072_23,"KNR TRAVELS","A/C Sleeper (2+1)",23:15,Shamshabad,23:59,Jadcherla,Hyderabad-Pulivendula
+20607_309,"OVR Travels","A/C Seater / Sleeper (2+1)",22:50,Shamshabad,23:30,Jadcherla,Hyderabad-Pulivendula
+37131_11,"SAMSKRUTHI TRAVELS","A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Pulivendula
+19085_SCH168E40H,"Vikram Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",20:40,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+20437_155,"IntrCity SmartBus","AC Sleeper (2+1)",19:55,Shamshabad,21:50,Jadcherla,Hyderabad-Tirupati
+20397_70,"Morning Star Travels","A/C Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+4779_62,"CGR  Travels","A/C Sleeper (1+1+1)",00:05 (23-Jul),Shamshabad,N/A,N/A,Hyderabad-Tirupati
+23873_SCH2B8D1582H,"CMR Express","A/C Sleeper (2+1)",23:25,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+23873_SCH1686760D,"CMR Express","Non A/C Seater / Sleeper (2+1)",23:40,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+24262_1,"Sai Karthik Travels","Non A/C Seater / Sleeper (2+1)",23:40,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+20218_62b08d0fa3049a500d7a1615,"zingbus plus","A/C Sleeper (2+1)",21:10,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+20437_708,"IntrCity SmartBus","AC Sleeper (2+1)",21:10,Shamshabad,22:50,Jadcherla,Hyderabad-Tirupati
+28031_1,"Moksha Travels","A/C Sleeper (2+1)",21:15,Shamshabad,22:30,Jadcherla,Hyderabad-Tirupati
+16067_587,"Mozo travels","A/C Seater / Sleeper (2+1)",20:50,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+16410_1635,"Jagan Travels","A/C Seater / Sleeper (2+1)",22:10,Shamshabad,23:15,Jadcherla,Hyderabad-Tirupati
+4779_203,"CGR  Travels","A/C Sleeper (2+1)",00:05 (23-Jul),Shamshabad,N/A,N/A,Hyderabad-Tirupati
+9138_372,"Ramana Tours And Travels","A/C Sleeper (2+1)",21:10,Shamshabad,22:50,Jadcherla,Hyderabad-Tirupati
+16410_1690,"Jagan Travels","A/C Seater / Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+20218_667c53a57f2f625043303351,"zingbus plus","A/C Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+16067_618,"Mozo travels","A/C Sleeper (2+1)",20:10,Shamshabad,22:00,Jadcherla,Hyderabad-Tirupati
+30773_77,"Anagha Travels","A/C Seater / Sleeper (2+1)",21:10,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+20437_980,"IntrCity SmartBus","AC Sleeper (2+1)",20:25,Shamshabad,22:20,Jadcherla,Hyderabad-Tirupati
+29331_140,"Dhanunjaya Travels","A/C Sleeper (2+1)",23:30,Shamshabad,00:30 (23-Jul),Jadcherla,Hyderabad-Tirupati
+29535_135,"Srivastav Travels","A/C Sleeper (2+1)",21:50,Shamshabad,23:30,Jadcherla,Hyderabad-Tirupati
+20437_1281,"IntrCity SmartBus","A/C Seater / Sleeper (2+1)",23:50,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+23873_SCH278A1150N,"CMR Express","A/C Seater / Sleeper (2+1)",23:35,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+23213_424,"BSR Tours And Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:20,Shamshabad,22:40,Jadcherla,Hyderabad-Tirupati
+32017_21,"7Hills roadways","Scania AC Multi Axle Sleeper (2+1)",21:50,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+33076_1,"Reddy Travels","Non A/C Seater / Sleeper (2+1)",19:15,Shamshabad,20:35,Jadcherla,Hyderabad-Tirupati
+9138_550,"Ramana Tours And Travels","A/C Sleeper (2+1)",20:15,Shamshabad,21:15,Jadcherla,Hyderabad-Tirupati
+22330_112,"Abhay Tours and Travels","A/C Seater / Sleeper (2+1)",23:40,Shamshabad,23:59,Jadcherla,Hyderabad-Tirupati
+20437_1458,"IntrCity SmartBus","AC Sleeper (2+1)",22:20,Shamshabad,23:55,Jadcherla,Hyderabad-Tirupati
+30426_096ee21b-b463-4a0e-9b73-7a8f9e88957e_57,"FlixBus","VE A/C Sleeper (2+1)",19:45,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+31009_69,"SLVT travels","NON A/C Sleeper (2+1)",23:30,Shamshabad,23:59,Jadcherla,Hyderabad-Tirupati
+19695_75,"Mythri Tours And Travels","A/C Sleeper (2+1)",21:00,Shamshabad,22:39,Jadcherla,Hyderabad-Tirupati
+35274_2,"Sri Skanda Travels","Scania AC Multi Axle Sleeper (2+1)",20:20,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+33702_20,"Kvkr Bus","Non A/C Seater / Sleeper (2+1)",19:45,Shamshabad,21:15,Jadcherla,Hyderabad-Tirupati
+30702_151,"KKaveri Travels","Non A/C Seater / Sleeper (2+1)",20:00,Shamshabad,21:00,Jadcherla,Hyderabad-Tirupati
+31879_72,"MSM Tours & Travels","Volvo Multi-Axle I-Shift A/C Sleeper (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+32021_126260,"Orange Tours and Travels","Scania AC Multi Axle Sleeper (2+1)",20:35,Shamshabad,22:00,Jadcherla,Hyderabad-Tirupati
+25286_SCH488C347N,"Go Tour Travels and Holidays","A/C Sleeper (2+1)",21:15,Shamshabad,22:45,Jadcherla,Hyderabad-Tirupati
+16410_1896,"Jagan Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+19133_242,"Kamakshi Tours And Travels","Bharat Benz A/C Sleeper (2+1)",21:15,Shamshabad,22:40,Jadcherla,Hyderabad-Tirupati
+19759_1058,"Sri Krishna Travels","A/C Sleeper (2+1)",18:50,Shamshabad,20:20,Jadcherla,Hyderabad-Tirupati
+36315_128679,"Aadhya Road Lines","A/C Sleeper (2+1)",00:05 (23-Jul),Shamshabad,N/A,N/A,Hyderabad-Tirupati
+19759_1071,"Sri Krishna Travels","A/C Sleeper (2+1)",21:00,Shamshabad,22:40,Jadcherla,Hyderabad-Tirupati
+19759_1072,"Sri Krishna Travels","Volvo Multi-Axle A/C Sleeper (2+1) ",23:10,Shamshabad,23:59,Jadcherla,Hyderabad-Tirupati
+22309_227,"Sai Ganesh Travels","Non A/C Seater / Sleeper (2+1)",22:55,Shamshabad,23:50,Jadcherla,Hyderabad-Tirupati
+36469_SCH498D21N,"Panakam Travels","A/C Sleeper (2+1)",20:15,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+25338_129401,"VRL Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",20:45,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+36501_12,"Karthi Roadlines","Scania AC Seater (2+2)",20:25,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+22309_232,"Sai Ganesh Travels","Non A/C Seater / Sleeper (2+1)",23:30,Shamshabad,23:59,Jadcherla,Hyderabad-Tirupati
+35980_20,"Madesh Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",21:30,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+34906_25,"Arshiya Travels","A/C Sleeper (2+1)",00:10 (23-Jul),Shamshabad,N/A,N/A,Hyderabad-Tirupati
+36360_7,"SRI MAHALAKSHMI TRAVELS","Non A/C Seater / Sleeper (2+1)",21:00,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+16067_672,"Mozo travels","A/C Seater / Sleeper (2+1)",21:10,Shamshabad,22:30,Jadcherla,Hyderabad-Tirupati
+36649_1906,"Jagan Travels Elite","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",19:50,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+36649_1910,"Jagan Travels Elite","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",20:40,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+36373_11,"SRI MVT TRAVELS","A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+28031_80,"Moksha Travels","A/C Sleeper (2+1)",18:45,Shamshabad,20:00,Jadcherla,Hyderabad-Tirupati
+30641_95,"Vandana Travels","A/C Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+21674_SCH46871H,"SRI MARUTHI TRAVELS","Bharat Benz A/C Sleeper (2+1)",22:30,Shamshabad,23:20,Jadcherla,Hyderabad-Tirupati
+19085_SCH3B88138F,"Vikram Travels","Volvo 9600 SLX Multi-Axle AC Sleeper (2+1)",22:45,Shamshabad,23:15,Jadcherla,Hyderabad-Tirupati
+23971_1927,"TruGo","A/C Seater / Sleeper (2+1)",21:05,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+31879_100,"MSM Tours & Travels","Volvo Multi-Axle I-Shift A/C Sleeper (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+20218_6a3645add720816e17ba6fbd,"zingbus plus","A/C Sleeper (2+1)",19:35,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+30641_97,"Vandana Travels","A/C Sleeper (2+1)",20:40,Shamshabad,22:30,Jadcherla,Hyderabad-Tirupati
+28092_99,"MMR TRAVELS","A/C Sleeper (2+1)",23:40,Shamshabad,00:25 (23-Jul),Jadcherla,Hyderabad-Tirupati
+35912_35,"SAT(Sri Anjaneya Travels)","A/C Seater / Sleeper (2+1)",20:45,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+37539_9,"YOLOBUS PRIVATE LIMITED","Bharat Benz A/C Sleeper (2+1)",00:50 (23-Jul),Shamshabad,N/A,N/A,Hyderabad-Tirupati
+28031_81,"Moksha Travels","A/C Seater / Sleeper (2+1)",23:50,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+37037_17,"Saritha Tours and Travels","A/C Seater/Sleeper (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+25463_129,"Ajay Bus","Non A/C Seater / Sleeper (2+1)",20:45,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+37037_20,"Saritha Tours and Travels","NON AC Seater / Sleeper 2+1",18:20,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+37233_20,"KAMINI TRAVELS","A/C Seater / Sleeper (2+1)",21:00,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+28031_83,"Moksha Travels","A/C Seater / Sleeper (2+1)",22:15,Shamshabad,23:30,Jadcherla,Hyderabad-Tirupati
+23971_1975,"TruGo","A/C Seater / Sleeper (2+1)",20:35,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+37550_658,"Ramana Tours And Travels","A/C Sleeper (2+1)",21:10,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+20397_1261,"Morning Star Travels","A/C Sleeper (2+1)",00:10 (23-Jul),Shamshabad,01:10 (23-Jul),Jadcherla,Hyderabad-Tirupati
+25463_131,"Ajay Bus","Non A/C Seater / Sleeper (2+1)",20:45,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+34537_64,"SREEKARA Travels","Non A/C Seater / Sleeper (2+1)",20:15,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+28092_103,"MMR TRAVELS","A/C Sleeper (2+1)",21:00,Shamshabad,22:00,Jadcherla,Hyderabad-Tirupati
+4779_40,"CGR  Travels","A/C Sleeper (2+1)",00:05 (23-Jul),Shamshabad,N/A,N/A,Hyderabad-Tirupati
+16797_19,"V Kaveri Travels","Scania AC Multi Axle Sleeper (2+1)",23:20,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+16937_78,"Kallada Travels (Suresh Kallada)","A/C Sleeper (2+1)",17:25,Shamshabad,18:20,Jadcherla,Hyderabad-Bangalore
+16937_330,"Kallada Travels (Suresh Kallada)","A/C Sleeper (2+1)",17:20,Shamshabad,18:25,Jadcherla,Hyderabad-Bangalore
+19759_38,"Sri Krishna Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:00,Shamshabad,22:40,Jadcherla,Hyderabad-Bangalore
+20393_35,"BSR Tours And Travels","A/C Sleeper (2+1)",21:20,Shamshabad,22:40,Jadcherla,Hyderabad-Bangalore
+19571_70590,"Intercity travels","Bharat Benz A/C Sleeper (2+1)",23:45,Shamshabad,00:45 (01-Aug),Jadcherla,Hyderabad-Bangalore
+8336_373,"Jabbar  Travels","Volvo A/C B11R Multi Axle Semi Sleeper (2+2)",23:20,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+2323_2185,"National  travels","Bharat Benz A/C Sleeper (2+1)",00:30 (01-Aug),Shamshabad,N/A,N/A,Hyderabad-Bangalore
+2323_2265,"National  travels","Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1)",22:19,Shamshabad,23:45,Jadcherla,Hyderabad-Bangalore
+2323_2275,"National  travels","Scania AC Multi Axle Sleeper (2+1)",23:50,Shamshabad,00:59 (01-Aug),Jadcherla,Hyderabad-Bangalore
+23867_2,"KGN INDIA","NON A/C Sleeper (2+1)",21:00,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+23854_SCH2786186I,"AVM Tours And Travels","Non A/C Seater / Sleeper (2+1)",22:57,Shamshabad,00:09 (01-Aug),Jadcherla,Hyderabad-Bangalore
+23345_19,"Aditya Logistics","A/C Sleeper (2+1)",22:35,Shamshabad,23:30,Jadcherla,Hyderabad-Bangalore
+20218_6876b9b358d8910fb073c926:627571902b8f5cb7e9d8009e:2025:07:31,"zingbus plus","A/C Sleeper (2+1)",22:50,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+20397_624,"Morning Star Travels","A/C Sleeper (2+1)",00:00 (01-Aug),Shamshabad,00:50 (01-Aug),Jadcherla,Hyderabad-Bangalore
+25245_64,"Tranzindia Travels","Non A/C Seater / Sleeper (2+1)",22:15,Shamshabad,23:30,Jadcherla,Hyderabad-Bangalore
+20393_292,"BSR Tours And Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",19:10,Shamshabad,20:45,Jadcherla,Hyderabad-Bangalore
+25877_5,"Bmcc Travels","Non A/C Seater / Sleeper (2+1)",00:05 (01-Aug),Shamshabad,01:10 (01-Aug),Jadcherla,Hyderabad-Bangalore
+20393_294,"BSR Tours And Travels","Scania AC Multi Axle Sleeper (2+1)",23:00,Shamshabad,23:59,Jadcherla,Hyderabad-Bangalore
+9138_330,"Ramana Tours And Travels","A/C Sleeper (2+1)",21:30,Shamshabad,23:00,Jadcherla,Hyderabad-Bangalore
+27613_SCH2A8D1261J,"KSM Roadways","A/C Volvo B11R Multi-Axle Sleeper (2+1)",23:35,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+27613_SCH49872106C,"KSM Roadways","A/C Volvo B11R Multi-Axle Sleeper (2+1)",23:39,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+27613_SCH298635E,"KSM Roadways","A/C Volvo B11R Multi-Axle Sleeper (2+1)",23:20,Shamshabad,00:30 (01-Aug),Jadcherla,Hyderabad-Bangalore
+25649_8,"November Travels","Bharat Benz A/C Sleeper (2+1)",21:35,Shamshabad,22:55,Jadcherla,Hyderabad-Bangalore
+20259_1295,"Yolo Bus","Bharat Benz A/C Sleeper (2+1)",20:50,Shamshabad,21:45,Jadcherla,Hyderabad-Bangalore
+19695_25,"Mythri Tours And Travels","A/C Sleeper (2+1)",22:00,Shamshabad,23:29,Jadcherla,Hyderabad-Bangalore
+25877_73,"Bmcc Travels","NON AC Seater / Sleeper 2+1",22:20,Shamshabad,23:45,Jadcherla,Hyderabad-Bangalore
+2472_1111,"Sugama  Tourist","A/C Sleeper (2+1)",22:45,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+29331_39,"Dhanunjaya Travels","A/C Seater / Sleeper (2+1)",23:00,Shamshabad,00:15 (01-Aug),Jadcherla,Hyderabad-Bangalore
+8336_492,"Jabbar  Travels","Scania AC Multi Axle Sleeper (2+1)",23:30,Shamshabad,23:50,Jadcherla,Hyderabad-Bangalore
+25338_106086,"VRL Travels","A/C Sleeper (2+1)",20:00,Shamshabad,20:45,Jadcherla,Hyderabad-Bangalore
+29331_40,"Dhanunjaya Travels","A/C Semi Sleeper / Sleeper (2+1)",22:00,Shamshabad,23:30,Jadcherla,Hyderabad-Bangalore
+2323_2657,"National  travels","Bharat Benz A/C Sleeper (2+1)",22:10,Shamshabad,23:30,Jadcherla,Hyderabad-Bangalore
+25338_106842,"VRL Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+20470_SCH478A124F,"Rajesh Transports","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",22:20,Shamshabad,22:59,Jadcherla,Hyderabad-Bangalore
+20218_6876b90058d8910fb0738c9f:627571902b8f5cb7e9d8009e:2025:07:31,"zingbus plus","A/C Sleeper (2+1)",21:10,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+27613_SCH38881N,"KSM Roadways","Bharat Benz A/C Sleeper (2+1)",21:15,Shamshabad,22:10,Jadcherla,Hyderabad-Bangalore
+19362_702,"Northern Travels","Bharat Benz A/C Seater /Sleeper (2+1)",12:00,Shamshabad,13:00,Jadcherla,Hyderabad-Bangalore
+20470_SCH4988706K,"Rajesh Transports","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",23:24,Shamshabad,00:30 (01-Aug),Jadcherla,Hyderabad-Bangalore
+18755_689,"Sri Durgamba Travels - R No H","A/C Sleeper (2+1)",00:00 (01-Aug),Shamshabad,01:15 (01-Aug),Jadcherla,Hyderabad-Bangalore
+27613_SCH5689708F,"KSM Roadways","Bharat Benz A/C Sleeper (2+1)",23:15,Shamshabad,00:45 (01-Aug),Jadcherla,Hyderabad-Bangalore
+8336_518,"Jabbar  Travels","NON A/C Semi Sleeper / Sleeper (2+1)",23:35,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+20470_SCH2A8F160J,"Rajesh Transports","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",23:45,Shamshabad,00:49 (01-Aug),Jadcherla,Hyderabad-Bangalore
+27240_32,"Royal Rich India - R No 208","Bharat Benz A/C Sleeper (2+1)",14:45,Shamshabad,16:00,Jadcherla,Hyderabad-Bangalore
+31275_2,"Kaveri Travels","A/C Sleeper (2+1)",21:35,Shamshabad,23:15,Jadcherla,Hyderabad-Bangalore
+27613_SCH468C261C,"KSM Roadways","Bharat Benz A/C Sleeper (1+1)",21:00,Shamshabad,22:00,Jadcherla,Hyderabad-Bangalore
+23213_248,"BSR Tours And Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:20,Shamshabad,22:40,Jadcherla,Hyderabad-Bangalore
+20470_SCH4888882K,"Rajesh Transports","A/C Volvo B11R Multi-Axle Sleeper (2+1)",21:20,Shamshabad,22:30,Jadcherla,Hyderabad-Bangalore
+25649_13,"November Travels","Bharat Benz A/C Sleeper (2+1)",21:35,Shamshabad,22:55,Jadcherla,Hyderabad-Bangalore
+25649_15,"November Travels","A/C Seater / Sleeper (2+1)",22:45,Shamshabad,00:30 (01-Aug),Jadcherla,Hyderabad-Bangalore
+19362_838,"Northern Travels","Bharat Benz A/C Sleeper (2+1)",00:30 (01-Aug),Shamshabad,N/A,N/A,Hyderabad-Bangalore
+32021_74415,"Orange Tours and Travels","NON A/C Seater/ Sleeper (2+1)",22:15,Shamshabad,23:45,Jadcherla,Hyderabad-Bangalore
+32021_105181,"Orange Tours and Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",20:40,Shamshabad,21:45,Jadcherla,Hyderabad-Bangalore
+32021_81821,"Orange Tours and Travels","A/C Sleeper (2+1)",20:40,Shamshabad,22:00,Jadcherla,Hyderabad-Bangalore
+32021_106230,"Orange Tours and Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",18:20,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+32021_78191,"Orange Tours and Travels","Volvo Multi-Axle Sleeper A/C (2+1)",17:00,Shamshabad,18:10,Jadcherla,Hyderabad-Bangalore
+32021_82348,"Orange Tours and Travels","Volvo Multi-Axle Sleeper A/C (2+1)",16:00,Shamshabad,17:00,Jadcherla,Hyderabad-Bangalore
+32021_106416,"Orange Tours and Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",23:55,Shamshabad,00:59 (01-Aug),Jadcherla,Hyderabad-Bangalore
+32141_114807,"K.L.A Travels","A/C Sleeper (2+1)",00:15 (01-Aug),Shamshabad,N/A,N/A,Hyderabad-Bangalore
+21674_SCH5A8A602G,"SRI MARUTHI TRAVELS","A/C Sleeper (2+1)",22:20,Shamshabad,23:28,Jadcherla,Hyderabad-Bangalore
+26785_103,"Express Line","Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+30426_f13bbb5e-185e-4ca0-96ce-7c74f09854d9_06,"FlixBus","A/C Sleeper (2+1)",21:25,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+32420_2,"JAI MARUTHI TRAVELS","Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+23264_116,"LVP Travels","A/C Sleeper (2+1)",22:50,Shamshabad,23:40,Jadcherla,Hyderabad-Bangalore
+33002_SCH4A8F207N,"Sree Rama Tours & Travels","A/C Sleeper (2+1)",21:55,Shamshabad,23:00,Jadcherla,Hyderabad-Bangalore
+25245_388,"Tranzindia Travels","VE A/C Sleeper (2+1)",22:10,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+20310_539,"Shyamoli Paribahan Pvt Ltd","A/C Sleeper (2+1)",14:45,Shamshabad,16:00,Jadcherla,Hyderabad-Bangalore
+27326_48,"Kaleswari Travels","Non A/C Seater / Sleeper (2+1)",22:45,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+27326_49,"Kaleswari Travels","Non A/C Seater / Sleeper (2+1)",00:15 (01-Aug),Shamshabad,N/A,N/A,Hyderabad-Bangalore
+2323_2974,"National  travels","Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1)",20:55,Shamshabad,22:10,Jadcherla,Hyderabad-Bangalore
+30513_SCH588840K,"Pramukh Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:45,Shamshabad,22:45,Jadcherla,Hyderabad-Bangalore
+20470_SCH1887365C,"Rajesh Transports","A/C Volvo B11R Multi-Axle Sleeper (2+1)",21:35,Shamshabad,22:45,Jadcherla,Hyderabad-Bangalore
+19362_927,"Northern Travels","Bharat Benz A/C Sleeper (2+1)",00:25 (01-Aug),Shamshabad,N/A,N/A,Hyderabad-Bangalore
+2472_2190,"Sugama  Tourist","A/C Sleeper (2+1)",21:30,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+25245_401,"Tranzindia Travels","VE A/C Sleeper (2+1)",20:30,Shamshabad,21:30,Jadcherla,Hyderabad-Bangalore
+33561_6859,"SRS TRAVELS","NON AC Seater / Sleeper 2+1",22:20,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+31831_SCH188735I,"Bharathi Travels","Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1)",23:00,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+33590_2,"RMS Transports","A/C Sleeper (2+1)",23:45,Shamshabad,00:45 (01-Aug),Jadcherla,Hyderabad-Bangalore
+20218_687703c458d8910fb07c168f,"zingbus plus","VE A/C Sleeper (2+1)",18:35,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+20397_1220,"Morning Star Travels","Volvo Multi Axle B9R A/C Sleeper (2+1)",23:00,Shamshabad,23:55,Jadcherla,Hyderabad-Bangalore
+20218_68770c6f58d8910fb07dd5fb:627571902b8f5cb7e9d8009e:2025:07:31,"zingbus plus","A/C Seater/Sleeper (2+1)",19:40,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+33145_65,"SVR Tours and Travels","A/C Sleeper (2+1)",21:30,Shamshabad,22:00,Jadcherla,Hyderabad-Bangalore
+19362_974,"Northern Travels","Bharat Benz A/C Sleeper (2+1)",08:15,Shamshabad,09:30,Jadcherla,Hyderabad-Bangalore
+20218_6877121058d8910fb07e831e,"zingbus plus","VE A/C Sleeper (2+1)",00:35 (01-Aug),Shamshabad,N/A,N/A,Hyderabad-Bangalore
+29331_360,"Dhanunjaya Travels","A/C Sleeper (2+1)",23:59,Shamshabad,01:35 (01-Aug),Jadcherla,Hyderabad-Bangalore
+34334_SCH18892112E,"N S Holidays","NON A/C Sleeper (2+1)",23:30,Shamshabad,00:30 (01-Aug),Jadcherla,Hyderabad-Bangalore
+32420_30,"JAI MARUTHI TRAVELS","Bharat Benz A/C Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+34439_SCH2885831K,"YAS Tours & Travels","A/C Volvo B11R Multi-Axle Sleeper (2+1)",14:55,Shamshabad,15:45,Jadcherla,Hyderabad-Bangalore
+34439_SCH1A8E4I,"YAS Tours & Travels","Volvo A/C B11R Multi Axle Semi Sleeper (2+2)",16:45,Shamshabad,17:55,Jadcherla,Hyderabad-Bangalore
+34439_SCH2787314H,"YAS Tours & Travels","A/C Volvo B11R Multi-Axle Sleeper (2+1)",16:35,Shamshabad,17:40,Jadcherla,Hyderabad-Bangalore
+34439_SCH368C324F,"YAS Tours & Travels","A/C Volvo B11R Multi-Axle Sleeper (2+1)",19:20,Shamshabad,20:50,Jadcherla,Hyderabad-Bangalore
+32108_120127,"Raja Express","A/C Sleeper (2+1)",23:45,Shamshabad,00:45 (01-Aug),Jadcherla,Hyderabad-Bangalore
+29331_372,"Dhanunjaya Travels","A/C Sleeper (2+1)",21:50,Shamshabad,23:15,Jadcherla,Hyderabad-Bangalore
+33327_107,"SMRR Bus","A/C Sleeper (2+1)",23:15,Shamshabad,23:35,Jadcherla,Hyderabad-Bangalore
+30054_SCH1B89977C,"TVK TRAVELS","A/C Sleeper (2+1)",22:40,Shamshad Toll plaza,N/A,N/A,Hyderabad-Bangalore
+29023_SCH5985261L,"IRA TRANSPORTS","A/C Sleeper (2+1)",22:45,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+26785_170,"Express Line","VE A/C Sleeper (2+1)",23:50,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+26785_171,"Express Line","VE A/C Sleeper (2+1)",23:40,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+33287_28,"Kunal Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",23:40,Shamshabad,00:30 (01-Aug),Jadcherla,Hyderabad-Bangalore
+31825_57,"REDLINES TOURS AND TRAVELS","A/C Seater / Sleeper (2+1)",00:30 (01-Aug),Shamshabad,N/A,N/A,Hyderabad-Bangalore
+34680_4,"HASH BUS","Benz A/C Sleeper (2+1)",22:20,Shamshabad,23:35,Jadcherla,Hyderabad-Bangalore
+33277_25,"SREE KVR TRAVELS","A/C Sleeper (2+1)",22:45,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+3601_120,"GreenLine Travels And  Holidays","VE A/C Sleeper (2+1)",22:35,Shamshabad,N/A,N/A,Hyderabad-Bangalore
+6284_13670,"Saleem Travels","NON A/C Seater Push Back (2+2)",20:50,Shamshabad,22:00,Jadcherla,Hyderabad-Bangalore
+16410_572,"Jagan Travels","Non A/C Seater / Sleeper (2+1)",22:10,Shamshabad,23:10,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+16410_1543,"Jagan Travels","A/C Sleeper (2+1)",20:55,Shamshabad,21:50,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+29666_SCH57892581C,"Balaji Cabs","Bharat Benz A/C Sleeper (2+1)",17:00,Shamshabad,18:15,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+19504_1243,"KKaveri Travels","A/C Sleeper (2+1)",23:50,Shamshabad,23:59,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+29666_SCH188D10N,"Balaji Cabs","Bharat Benz A/C Sleeper (2+1)",17:00,Shamshabad,18:15,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+16410_1765,"Jagan Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",19:45,Shamshabad,21:15,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+30127_SCH2689321L,"JBT TRAVELS","A/C Sleeper (2+1)",20:40,Shamshabad,21:40,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+32021_115898,"Orange Tours and Travels","A/C Sleeper (2+1)",20:40,Shamshabad,22:00,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+33145_8,"SVR Tours and Travels","A/C Sleeper (2+1)",19:30,Shamshabad,21:00,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+19759_849,"Sri Krishna Travels","A/C Seater / Sleeper (2+1)",18:15,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+31009_61,"SLVT travels","NON A/C Sleeper (2+1)",23:30,Shamshabad,23:59,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+32362_60,"KPM BUS","A/C Sleeper (2+1)",22:45,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+32362_62,"KPM BUS","A/C Sleeper (2+1)",22:45,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+16410_1836,"Jagan Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",21:40,Shamshabad,22:55,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+24554_SCH4888882F,"Sri Vaari Travels","A/C Sleeper (2+1)",17:30,Shamshabad,18:45,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+31975_SCH278B1504J,"Sri Hari Tours & Travels","Volvo Multi Axle B9R A/C Sleeper (2+1)",20:25,Shamshabad,21:45,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+33702_16,"Kvkr Bus","Non A/C Seater / Sleeper (2+1)",19:10,Shamshabad,19:30,Jadcherla,Hyderabad-Chittoor (Andhra Pradesh)
+30323_SCH38891687D,"Nanthi Travels","A/C Sleeper (2+1)",20:10,Shamshabad,N/A,N/A,Hyderabad-Chittoor (Andhra Pradesh)
+30570_SCH4988820L,"KK Travels","Non A/C Seater / Sleeper (2+1)",23:59,Shamshabad,N/A,N/A,Hyderabad-Kadiri
+32258_2,"SLV Travels","Non A/C Seater / Sleeper (2+1)",23:30,Shamshabad,23:50,Jadcherla,Hyderabad-Kadiri
+29880_16,"Om Sri Vinayaka Travels","A/C Sleeper (2+1)",19:10,Shamshabad,20:30,Jadcherla,Hyderabad-Kadiri
+33140_9,"Anjum Tours and Travels","NON A/C Sleeper (2+1)",23:30,Shamshabad,N/A,N/A,Hyderabad-Kadiri
+22954_265,"SL Travels","A/C Sleeper (2+1)",21:25,Shamshabad,22:45,Jadcherla,Hyderabad-Kadiri
+18925_209,"VRCR Travels","Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1)",22:45,Shamshabad,00:15 (01-Aug),Jadcherla,Hyderabad-Madanapalli
+30214_2,"SAT (Sri Anjaneya Travels)","A/C Sleeper (2+1)",22:25,Shamshabad,23:40,Jadcherla,Hyderabad-Madanapalli
+28092_14,"MMR TRAVELS","Non A/C Seater / Sleeper (2+1)",23:50,Shamshabad,N/A,N/A,Hyderabad-Madanapalli
+33464_280,"SL Travels","Non A/C Seater / Sleeper (2+1)",21:15,Shamshabad,22:45,Jadcherla,Hyderabad-Madanapalli
+20218_68393637e1d22cdccf892caf,"zingbus plus","VE A/C Sleeper (2+1)",00:35 (01-Aug),Shamshabad,N/A,N/A,Hyderabad-Mysore
+17957_21,"Vasavi travels","Non A/C Seater / Sleeper (2+1)",23:40,Shamshabad,00:30 (01-Aug),Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+17957_22,"Vasavi travels","A/C Sleeper (2+1)",23:55,Shamshabad,01:30 (01-Aug),Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+23392_55,"PRL BUS","NON A/C Sleeper (2+1)",23:55,Shamshabad,00:45 (01-Aug),Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+24135_3,"INDHU BUS","Non A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+24263_3,"SRI AVANI","Non A/C Seater / Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+27916_SCH1B8E121K,"VEERA & SRI KALESWARI TRAVELS","NON A/C Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+29382_SCH4B8A324L,"Indu Travels","Non A/C Seater / Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+31099_SCH1A8E1020L,"Matangi Travels","Non A/C Seater / Sleeper (2+1)",23:55,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+29236_42,"HARITHA TRAVELS","NON A/C Sleeper (2+1)",23:55,Shamshabad,23:59,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+29382_SCH5A8731F,"Indu Travels","A/C Sleeper (2+1)",00:00 (01-Aug),Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+29536_SCH398717F,"BABA TRAVELS","Non A/C Seater / Sleeper (2+1)",23:30,Shamshabad,N/A,N/A,Hyderabad-Proddatur (andhra pradesh)
+29236_87,"HARITHA TRAVELS","Non A/C Seater / Sleeper (2+1)",N/A,N/A,23:58,Jadcherla,Hyderabad-Proddatur (andhra pradesh)
+19759_36,"Sri Krishna Travels","Volvo Multi-Axle A/C Sleeper (2+1) ",23:10,Shamshabad,23:59,Jadcherla,Hyderabad-Tirupati
+16410_707,"Jagan Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",20:55,Shamshabad,21:50,Jadcherla,Hyderabad-Tirupati
+16410_1056,"Jagan Travels","Volvo 9600 Multi-Axle A/C Sleeper (2+1)",19:50,Shamshabad,21:15,Jadcherla,Hyderabad-Tirupati
+20218_6876d43058d8910fb077a380:627571902b8f5cb7e9d8009e:2025:07:31,"zingbus plus","A/C Sleeper (2+1)",21:10,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+29094_2,"Meghana Travels","A/C Sleeper (2+1)",23:55,Shamshabad,23:59,Jadcherla,Hyderabad-Tirupati
+20259_1526,"Yolo Bus","Bharat Benz A/C Sleeper (2+1)",01:00 (01-Aug),Shamshabad,02:00 (01-Aug),Jadcherla,Hyderabad-Tirupati
+28031_37,"Moksha Travels","A/C Seater / Sleeper (2+1)",21:30,Shamshabad,21:25,Jadcherla,Hyderabad-Tirupati
+20218_6876c6d358d8910fb075b2c9:627571902b8f5cb7e9d8009e:2025:07:31,"zingbus plus","A/C Sleeper (2+1)",23:40,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+30773_38,"Anagha Travels","Non A/C Seater / Sleeper (2+1)",23:35,Shamshabad,00:15 (01-Aug),Jadcherla,Hyderabad-Tirupati
+30641_1,"Vandana Travels","A/C Seater / Sleeper (2+1)",23:50,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+30641_18,"Vandana Travels","Non A/C Seater / Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+30702_29,"KKaveri Travels","Non A/C Seater / Sleeper (2+1)",23:15,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+31383_14,"Anmol Tours & Travels","Bharat Benz A/C Sleeper (2+1)",23:55,Shamshabad,00:35 (01-Aug),Jadcherla,Hyderabad-Tirupati
+27251_131,"SRI RATAN TATA EXPRESS","A/C Sleeper (2+1)",19:40,Shamshabad,21:00,Jadcherla,Hyderabad-Tirupati
+30702_60,"KKaveri Travels","Non A/C Seater / Sleeper (2+1)",21:35,Shamshabad,22:55,Jadcherla,Hyderabad-Tirupati
+30426_25f0d228-a9ae-431a-8cc1-5241e0f52082_59,"FlixBus","A/C Sleeper (2+1)",23:55,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+30214_42,"SAT (Sri Anjaneya Travels)","A/C Seater / Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+27251_144,"SRI RATAN TATA EXPRESS","A/C Sleeper (2+1)",18:20,Shamshabad,19:30,Jadcherla,Hyderabad-Tirupati
+30214_53,"SAT (Sri Anjaneya Travels)","A/C Sleeper (2+1)",22:25,Shamshabad,23:40,Jadcherla,Hyderabad-Tirupati
+23414_SCH5888636F,"True Bus","Volvo Multi-Axle I-Shift A/C Sleeper (2+1)",18:15,Shamshabad,20:00,Jadcherla,Hyderabad-Tirupati
+31009_63,"SLVT travels","NON A/C Sleeper (2+1)",22:50,Shamshabad,00:40 (01-Aug),Jadcherla,Hyderabad-Tirupati
+33702_5,"Kvkr Bus","Non A/C Seater / Sleeper (2+1)",22:35,Shamshabad,23:55,Jadcherla,Hyderabad-Tirupati
+31880_9,"Yaswanth Travels","A/C Sleeper (2+1)",23:45,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+28114_26,"SREE LEKYAA TRAVELS","A/C Sleeper (2+1)",21:05,Shamshabad,22:15,Jadcherla,Hyderabad-Tirupati
+32141_120250,"K.L.A Travels","A/C Sleeper (2+1)",23:35,Shamshabad,23:59,Jadcherla,Hyderabad-Tirupati
+34469_SCH2A8D88N,"Shubham Travels","A/C Sleeper (2+1)",23:40,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+34127_27,"Pilot Travels","Volvo Multi-Axle I-Shift A/C Sleeper (2+1)",23:35,Shamshabad,N/A,N/A,Hyderabad-Tirupati
+27251_154,"SRI RATAN TATA EXPRESS","A/C Sleeper (2+1)",19:40,Shamshabad,21:00,Jadcherla,Hyderabad-Tirupati
