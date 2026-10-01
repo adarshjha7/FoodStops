@@ -1,0 +1,48 @@
+| Bus Number | Service Number | Operator          |
+| ---------- | -------------: | ----------------- |
+| AP39WU2322 |            000 | BMCC              |
+| AP39WW5595 |            000 | Zing Bus          |
+| KA51AM6777 |            999 | KSM TRAVELS       |
+| TG12U6165  |           1281 | IntrCity SmartBus |
+| AP39TK6777 |            000 | KSM TRAVELS       |
+| AR01J5222  |            000 | KALLADA           |
+| AP39WS9927 |           1111 | MOKSHA            |
+| TG12T2172  |            155 | IntrCity SmartBus |
+| KA57F3911  |            000 | KSRTC             |
+| TS12UE3608 |            226 | IntrCity SmartBus |
+| TS09Z7920  |           1294 | TGSRTC            |
+| KA51AM0609 |            485 | IntrCity SmartBus |
+| AP39UX7896 |            981 | IntrCity SmartBus |
+| KA57F4237  |        215/216 | KSRTC             |
+| TG13T7798  |            660 | IntrCity SmartBus |
+| AP39WW2849 |          4121A | FLIX BUS          |
+| KA01AT9052 |            810 | IntrCity SmartBus |
+| KA57F3939  |            000 | KSRTC             |
+| AP39WT3990 |           4120 | FLIX BUS          |
+| KA57F3895  |           2625 | KSRTC             |
+| AP39VD6284 |            708 | IntrCity SmartBus |
+| GA03V9544  |           4108 | FLIX BUS          |
+| KA57F4144  |           6869 | KSRTC             |
+| AP39VB7777 |            000 | KSM TRAVELS       |
+| TG13T1985  |            637 | IntrCity SmartBus |
+| KA57F5383  |            000 | KSRTC             |
+| KA01AT9050 |            686 | IntrCity SmartBus |
+| TG08T0726  |            000 | Zing Bus          |
+| KA01AT6905 |           4111 | FLIX BUS          |
+| TS08UL2788 |            000 | TGSRTC            |
+| AP39WP1084 |           4115 | FLIX BUS          |
+| KA01AQ7951 |           1047 | IntrCity SmartBus |
+| AR01T1071  |            000 | MOKSHA            |
+| AP39WQ0006 |            000 | VANDANA           |
+| KA57F3894  |            000 | KSRTC             |
+| KA43B7777  |            000 | KSM TRAVELS       |
+| KA51AM9635 |           4123 | SAMANVI TRAVELS   |
+| AR01T1701  |            000 | MOKSHA            |
+| KA01AT9113 |           4131 | FLIX BUS          |
+| AP39WR3855 |           4115 | FLIX BUS          |
+| TG13T2616  |           1458 | IntrCity SmartBus |
+| AP39WU2664 |        IN5341A | FLIX BUS          |
+| KA57FF5385 |            945 | KSRTC             |
+| AR20D5777  |           4112 | FLIX BUS          |
+| AP39WV6009 |            000 | FLIX BUS          |
+| AR01Z3336  |            000 | TVK TRAVELS       |

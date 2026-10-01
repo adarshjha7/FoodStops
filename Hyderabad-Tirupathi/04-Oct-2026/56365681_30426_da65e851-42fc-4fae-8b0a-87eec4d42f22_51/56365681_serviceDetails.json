@@ -1,0 +1,6 @@
+{
+  "Code": "300.1",
+  "Message": "Looks like this bus is sold out. Please select a different one",
+  "DetailedMessage": "Looks like this bus is sold out. Please select a different one",
+  "ErrorAction": "MASK_TUPLE"
+}

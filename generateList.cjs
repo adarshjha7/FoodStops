@@ -14,6 +14,31 @@ const path = require('path');
 // --- Configuration ---
 const ROOT_DIRECTORY_NAME = 'Hyderabad-Bangalore'; // Change if your folder name is different
 const OUTPUT_CSV_FILE = 'busesList.csv';
+const OUTPUT_NO_JADCHERLA_CSV_FILE = 'busesList_NoJadcherlaStop.csv';
+
+const DAY_NAMES = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+const MONTHS = { Jan: '01', Feb: '02', Mar: '03', Apr: '04', May: '05', Jun: '06', Jul: '07', Aug: '08', Sep: '09', Oct: '10', Nov: '11', Dec: '12' };
+
+// fetchStops.js saves each date's data under a "<From>-<To>/<DD-MMM-YYYY>/..." folder.
+// That's the DOJ we actually requested, which is more trustworthy than the API's
+// echoed DateOfJourney field (observed to sometimes reflect a different date/year
+// than what was requested, likely due to schedule-template caching upstream).
+function dojFromFilePath(filePath) {
+  const match = filePath.match(/[\\/](\d{2}-[A-Za-z]{3}-\d{4})[\\/]/);
+  if (!match) return null;
+  const [d, mon, y] = match[1].split('-');
+  const mm = MONTHS[mon];
+  if (!mm) return null;
+  return `${y}-${mm}-${d}`;
+}
+
+function dayOfWeekFor(isoDate) {
+  // isoDate as "YYYY-MM-DD".
+  if (!isoDate) return 'N/A';
+  const d = new Date(`${isoDate}T00:00:00`);
+  if (Number.isNaN(d.getTime())) return 'N/A';
+  return DAY_NAMES[d.getDay()];
+}
 
 /**
  * Recursively finds all files with a specific name pattern in a directory.
@@ -56,7 +81,9 @@ async function analyzeAndGenerateCsv() {
     console.log(`Found ${jsonFiles.length} service detail files to analyze.`);
 
     const matchingBuses = [];
-    
+    const noJadcherlaBuses = []; // stops at Shamshabad but has no confirmed Jadcherla boarding point (e.g. FlixBus, Zingbus)
+    const seenKeys = new Set();
+
     for (const filePath of jsonFiles) {
         try {
             const fileContent = await fs.readFile(filePath, 'utf-8');
@@ -67,10 +94,10 @@ async function analyzeAndGenerateCsv() {
             }
 
             // Find the specific boarding point object for "Shamshabad"
-            const shamshabadStop = data.BPInformationList.find(bp => 
+            const shamshabadStop = data.BPInformationList.find(bp =>
                 bp.Name && (bp.Name.toLowerCase().includes('shamshad') || bp.Name.toLowerCase().includes('shams'))
             );
-            const jadcherlaStop = data.BPInformationList.find(bp => 
+            const jadcherlaStop = data.BPInformationList.find(bp =>
                 bp.Name && (bp.Name.toLowerCase().includes('jadcherla'))
             );
 
@@ -80,21 +107,36 @@ async function analyzeAndGenerateCsv() {
                 const serviceId = data.services[0].serviceId;
                 const travelsName = data.services[0].Travels;
                 const busType = data.services[0].busType;
-                
+                const doj = dojFromFilePath(filePath) || data.services[0].DateOfJourney || 'N/A';
+                const dayOfWeek = dayOfWeekFor(doj === 'N/A' ? null : doj);
+
                 const serviceIdentifier = `${operatorId}_${serviceId}`;
                 const route = `${data.services[0].FromCity}-${data.services[0].ToCity}`;
-                if(busesList.indexOf(serviceIdentifier) === -1) {
-                    matchingBuses.push({
+                // Key includes route + date: the same operatorId_serviceId can legitimately
+                // repeat across different routes or different dates.
+                const dedupeKey = `${serviceIdentifier}_${route}_${doj}`;
+
+                if (!seenKeys.has(dedupeKey)) {
+                    seenKeys.add(dedupeKey);
+                    const bus = {
                         serviceIdentifier,
                         travelsName: `"${travelsName.replace(/"/g, '""')}"`,
                         busType: `"${busType.replace(/"/g, '""')}"`,
                         boardingTime: shamshabadStop?.BpTm || 'N/A',  // Add the boarding time
                         boardingName: shamshabadStop?.Name || 'N/A',
                         boardingTime1: jadcherlaStop?.BpTm || 'N/A',
-                        boardingName1: jadcherlaStop?.Name || 'N/A', 
+                        boardingName1: jadcherlaStop?.Name || 'N/A',
                         route,
-                    });
-                    busesList.push(serviceIdentifier);
+                        doj,
+                        dayOfWeek,
+                    };
+
+                    if (jadcherlaStop) {
+                        matchingBuses.push(bus);
+                    } else {
+                        noJadcherlaBuses.push(bus);
+                    }
+                    busesList.push(dedupeKey);
                 }
             }
         } catch (error) {
@@ -102,19 +144,15 @@ async function analyzeAndGenerateCsv() {
         }
     }
 
-    console.log(`\nFound ${matchingBuses.length} buses that stop at Shamshabad.`);
+    console.log(`\nFound ${matchingBuses.length} buses with a confirmed Jadcherla boarding time.`);
+    console.log(`Found ${noJadcherlaBuses.length} buses that stop at Shamshabad but have no confirmed Jadcherla boarding time (e.g. FlixBus/Zingbus).`);
+
+    const csvHeader = 'ServiceIdentifier,TravelsName,BusType,BoardingTime@Shamshabad,BoardingPointName@Shamshabad, BoardingTime@Jadcherla,BoardingPointName@Jadcherla,Route,DOJ,DayOfWeek\n';
+    const toCsvRow = bus =>
+        `${bus.serviceIdentifier},${bus.travelsName},${bus.busType},${bus.boardingTime},${bus.boardingName},${bus.boardingTime1},${bus.boardingName1},${bus.route},${bus.doj},${bus.dayOfWeek}`;
 
     if (matchingBuses.length > 0) {
-        // Add the new "BoardingTime" column to the header
-        const csvHeader = 'ServiceIdentifier,TravelsName,BusType,BoardingTime@Shamshabad,BoardingPointName@Shamshabad, BoardingTime@Jadcherla,BoardingPointName@Jadcherla,Route\n';
-        
-        // Add the boardingTime to each row
-        const csvRows = matchingBuses.map(bus => 
-            `${bus.serviceIdentifier},${bus.travelsName},${bus.busType},${bus.boardingTime},${bus.boardingName},${bus.boardingTime1},${bus.boardingName1},${bus.route}`
-        ).join('\n');
-        
-        const csvContent = csvHeader + csvRows;
-
+        const csvContent = csvHeader + matchingBuses.map(toCsvRow).join('\n');
         try {
             await fs.writeFile(OUTPUT_CSV_FILE, csvContent);
             console.log(`\n✅ Successfully created CSV file: ${OUTPUT_CSV_FILE}`);
@@ -123,6 +161,16 @@ async function analyzeAndGenerateCsv() {
         }
     } else {
         console.log("No matching buses found to create a CSV file.");
+    }
+
+    if (noJadcherlaBuses.length > 0) {
+        const csvContent = csvHeader + noJadcherlaBuses.map(toCsvRow).join('\n');
+        try {
+            await fs.writeFile(OUTPUT_NO_JADCHERLA_CSV_FILE, csvContent);
+            console.log(`✅ Successfully created CSV file: ${OUTPUT_NO_JADCHERLA_CSV_FILE}`);
+        } catch (error) {
+            console.error(`❌ Failed to write CSV file: ${error.message}`);
+        }
     }
 }
 

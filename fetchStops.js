@@ -13,7 +13,7 @@ import axios from 'axios';
 
 async function fetchAndStoreBusDetails(fromCityId, toCityId, doj, fromCityName, toCityName) {
   const mainFolderName = `${fromCityName}-${toCityName}`;
-  const mainFolderPath = path.join(process.cwd(), mainFolderName);
+  const mainFolderPath = path.join(process.cwd(), mainFolderName, doj);
 
   try {
     await fs.mkdir(mainFolderPath, { recursive: true });
@@ -109,8 +109,18 @@ async function fetchAndStoreBusDetails(fromCityId, toCityId, doj, fromCityName, 
 // --- Main Execution ---
 // Updated to match the latest curl command
 const fromCityId = 124; // Hyderabad
-const doj = "22-Jul-2026"; // Change to whichever date you want to search (format: DD-Mon-YYYY)
 const fromCityName = "Hyderabad";
+
+// Dates to fetch, in "DD-MMM-YYYY" format (as required by the Redbus search API).
+// Add/remove dates here to control which days get scraped (e.g. weekends).
+const dojList = [
+  "30-Sep-2026", // Wed
+  "01-Oct-2026", // Thu
+  "02-Oct-2026", // Fri
+  "05-Oct-2026", // Mon
+  "06-Oct-2026", // Tue
+  // 03-Oct-2026 (Sat) and 04-Oct-2026 (Sun) already fetched previously
+];
 
 const cityList = [
   {name: "Bangalore", toCityId: 122},
@@ -126,9 +136,10 @@ const cityList = [
   { name: "Thiruvannamali", toCityId: 293 }
 ];
 
-for (const city of cityList) {
-  
-  console.log(`Processing toCity: ${city.name} (ID: ${city.toCityId})`);
-  await fetchAndStoreBusDetails(fromCityId, city.toCityId, doj, fromCityName, city.name);
+for (const doj of dojList) {
+  for (const city of cityList) {
+    console.log(`Processing toCity: ${city.name} (ID: ${city.toCityId}) for ${doj}`);
+    await fetchAndStoreBusDetails(fromCityId, city.toCityId, doj, fromCityName, city.name);
+  }
 }
 
